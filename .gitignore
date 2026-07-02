@@ -1,0 +1,14 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Datos crudos de Kaggle (se quedan en tu PC, no van a GitHub)
+data/raw/
+
+# Checkpoints de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
